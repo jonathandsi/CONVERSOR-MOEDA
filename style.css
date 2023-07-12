@@ -132,3 +132,17 @@ section {
     font-style: normal;
     font-size: 14px;
 }
+
+@media screen and (max-width: 400px){
+    main {
+        width: 330px;
+    }
+
+    button {
+        width: 281px;
+    }
+
+    section {
+        width: 281px;
+    }
+}
